@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/sankaran_l/Documents/Android/ADT/sdk/platforms/android-20/android.jar"/>
+	<classpathentry kind="lib" path="/Users/sankaran_l/Documents/Android/ADT/sdk/platforms/android-20/uiautomator.jar"/>
+	<classpathentry kind="lib" path="/Users/sankaran_l/Documents/Android/ADT/eclipse/plugins/org.junit_4.10.0.v4_10_0_v20120426-0900/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
